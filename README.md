@@ -2,7 +2,7 @@
 A Python RSS Reader
 
 To run:
-python pyrssreader.py
+`python pyrssreader.py`
 
 
 ## Dependencies
